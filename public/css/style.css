@@ -1,0 +1,17 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+
+.pull-right
+{
+	float: right;
+	content: ' ';
+	clear: both;
+}
+
+.white-bg
+{
+	background-color: #ffffff;
+}
