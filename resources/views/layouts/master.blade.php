@@ -8,7 +8,7 @@
 </head>
 <body>
 <div class="full-height">
-  <nav class="navbar navbar-default navbar-fixed-top white-bg">
+  <nav class="navbar navbar-default navbar-fixed-top white-bg z-depth-1">
   <div class="container nav-content">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -18,13 +18,13 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#"><img src="/img/logoOnly.png"></a>
+      <a class="navbar-brand" href="/"><img src="/img/logoOnly.png"></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="navigation-bar collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        <li class="active"><a href="#">Home</a></li>
+        <li class="active"><a href="/">Home</a></li>
         <li><a href="#">About</a>
         <li><a href="#">Properties</a>
         <li><a href="#">Contact</a>
